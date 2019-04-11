@@ -1,0 +1,44 @@
+-- Interesting People -------------------------------------------------------------------------------------------------
+James Killian - Science Advisor to Dwight D. Eisenhower
+
+William H. Godel - Former Deputy Directory of the Advanced Research Projects Agency
+-- --------------------------------------------------------------------------------------------------------------------
+
+
+
+
+-- DARPA --------------------------------------------------------------------------------------------------------------
+Sustained Innovation
+The report details four main factors that have enabled them to sustain their innovative culture for so long:
+
+1. Limited tenure of managers – All DARPA program managers work under the understanding that their stay will be typically a maximum of four years.  By giving managers a clear ‘expiration date’, they believe it encourages a sense of urgency to get things done.
+2. A real sense of purpose – I’ve spoken a bit recently about the importance of finding your purpose, and the report suggests that DARPA employees can really tap into their crucial mission to change the world
+3. Freedom and autonomy – The third key aspect of their enduring success is the trust placed in employees to do the right thing.  The long approval process seen in other organizations is not something you’ll find at DARPA
+4. Acceptance of risk – It’s become something of a cliche that to innovate you have to be prepared to fail, but DARPA are a good example of where this kind of philosophy really works
+
+
+
+https://www.fatainformatica.com/en/services/agile-project-management
+  In 1970 Winstone W. Royce explained the Waterfall design methodology at the IEEE Westcom. Even if he stated that this methodology was not suitable for software development projects, it was adopted by DARPA agency in late 1985.
+
+  Waterfall limits came up immediately and in a poll based on 28.000 software design projects, published on Computer Weekly the 9th july of 1998, was shown that only 26% of the software design projects polled were successful. 
+
+  In 2001, 17 leading professionals gathered at a ski resort in Utah to discuss together the future of the software world, tired of seeing a growing percentage of software projects shattering on the rocks at the end of the cascade or remained stuck in endless cycles.
+
+  That meeting became the father of a deep and clear reflection: the method applied to software engineering doesn’t work because software development is a creative activity, requires the contribution of knowledge workers and operators , with a strong craftsmanship and human interaction component.
+
+  This simple (a posteriori!) Revelation led to the writing of the Agile Manifesto.  The success of the Agile Manifesto is confirmed to all. Fata Informatica believes strongly in agile development and in customer collaboration rather than in negotiation . For this reason we support the agile movement and boasts among our technical staff multiple certificates on these methodologies.
+
+
+
+https://hbr.org/2013/10/special-forces-innovation-how-darpa-attacks-problems
+  Arguably, it has the longest-standing, most consistent track record of radical invention in history. Its innovations include the internet; RISC computing; global positioning satellites; stealth technology; unmanned aerial vehicles, or “drones”; and micro-electro-mechanical systems (MEMS), which are now used in everything from air bags to ink-jet printers to video games like the Wii.
+  
+  What makes DARPA’s long list of accomplishments even more impressive is the agency’s swiftness, relatively tiny organization, and comparatively modest budget. Its programs last, on average, only three to five years.
+
+
+
+https://p16.praetorian.com/blog/darpa-goes-agile-with-cyber-fast-track
+The new Cyber Fast Track program is unique for DARPA, in that there will be a rapid acceptance process. Some projects could begin within a few weeks of the proposal submission, and the project lengths will be on the order of months rather than years.
+-- --------------------------------------------------------------------------------------------------------------------
+
